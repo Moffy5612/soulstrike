@@ -1,0 +1,16 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "pattern" : [
+        "ooo",
+        "ooo",
+        "ooo"
+    ],
+    "key" : {
+        "o" : {
+            "item" : "soulstrike:orb"
+        }
+    },
+    "result" : {
+        "item" : "soulstrike:master_orb"
+    }
+}

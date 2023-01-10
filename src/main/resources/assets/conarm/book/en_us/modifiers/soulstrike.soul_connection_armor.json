@@ -1,0 +1,16 @@
+{
+    "armormodifier": "soulstrike.soul_connection_armor",
+    "text": [
+      {
+        "text": "Your steely will will turn even armor into a part of your body. Because you realized that you can only become stronger by doing so..."
+      }
+    ],
+    "effects": [
+      "Combines helmet energy with your own energy added by OpenEntity",
+      "Electric helmet is required!",
+      "Single level"
+    ],
+    "demoArmor": [
+      "conarm:helmet"
+    ]
+}

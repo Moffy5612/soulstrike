@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "soulstrike:blocks/reconstructed_casting_table/act_side"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "type":{
+      "table":{
+        "model": "soulstrike:reconstructed_casting_table"
+      }
+    },
+    "inventory":{
+      "model": "soulstrike:reconstructed_casting_table"
+    },
+    "normal":{
+      "model": "soulstrike:reconstructed_casting_table"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "pattern" : [
+        "grr",
+        "ldr",
+        "llg"
+    ],
+    "key" : {
+        "g" : {
+            "item" : "minecraft:glowstone_dust"
+        },
+        "r" : {
+            "item" : "minecraft:redstone"
+        },
+        "l" : {
+            "item" : "minecraft:dye",
+            "data" : 4
+        },
+        "d" : {
+            "item" : "minecraft:diamond"
+        }
+    },
+    "result" : {
+        "item" : "soulstrike:orb"
+    }
+}

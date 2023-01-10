@@ -1,0 +1,55 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "conditions" : [
+        {
+            "type" : "forge:and",
+            "values" : [
+                {
+                    "type" : "forge:mod_loaded",
+                    "modid" : "opencomputers"
+                },
+                {
+                    "type" : "forge:mod_loaded",
+                    "modid" : "openentity"
+                },
+                {
+                    "type" : "forge:mod_loaded",
+                    "modid" : "tconstruct"
+                },
+                {
+                    "type" : "forge:mod_loaded",
+                    "modid" : "conarm"
+                }
+            ]
+        }
+    ],
+    "pattern" : [
+        "mbg",
+        "bpb",
+        "gcg"
+    ],
+    "key" : {
+        "p" : {
+            "item" : "soulstrike:pride_of_round"
+        },
+        "c" : {
+            "item" : "opencomputers:material",
+            "data" : 5
+        },
+        "m" : {
+            "item" : "opencomputers:material",
+            "data" : 8
+        },
+        "b" : {
+            "item" : "minecraft:wool",
+            "data" : 15
+        },
+        "g" : {
+            "item" : "minecraft:wool",
+            "data" : 7
+        }
+    },
+    "result" : {
+        "item" : "soulstrike:bitn_controller"
+    }
+}

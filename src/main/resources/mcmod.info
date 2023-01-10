@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "soulstrike",
+    "name": "Soul Strike",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["moffy5612"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "requireMods": []
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "parent": "soulstrike:item/soul",
+  "textures": {
+    "layer0": "soulstrike:items/souls/reconstruction_core"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "conditions" : [
+        {
+            "type" : "forge:mod_loaded",
+            "modid" : "tconstruct"
+        }
+    ],
+    "pattern" : [
+        "ara",
+        "aca",
+        "aha"
+    ],
+    "key" : {
+        "r" : {
+            "item" : "soulstrike:reconstruction_core"
+        },
+        "c" : {
+            "item" : "tconstruct:casting",
+            "data" : 0
+        },
+        "h" : {
+            "item" : "minecraft:hopper"
+        },
+        "a" : {
+            "item" : "minecraft:air"
+        }
+    },
+    "result" : {
+        "item" : "soulstrike:reconstructed_casting_table"
+    }
+}

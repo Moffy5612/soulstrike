@@ -1,0 +1,46 @@
+#Creative Tab Name
+itemGroup.soulstrike=Soul Strike
+
+#block name
+tile.soulstrike:reconstructed_casting_table.name=Reconstructed Casting Table
+tile.soulstrike:reconstructed_part_builder.name=Reconstructed Part Builder
+tile.soulstrike:reconstructed_forge.name=Reconstructed Forge
+
+#block config
+soulstrike:enable=enable
+soulstrike:disable=disable
+
+soulstrike:canExtractMaterials=Extract Materials : 
+
+#item name
+item.soulstrike:orb.name=Orb
+item.soulstrike:master_orb.name=Master Orb
+item.soulstrike:hidden_controller.name=Hidden Controller
+item.soulstrike:bitn_controller.name=Bit'n Controller
+
+#orb's description
+item.soulstrike:orb.desc=Right-click to open the gate to the Strike World and summon souls with a certain probability. Orb forever!
+item.soulstrike:master_orb.desc=The Master Orb, the core of the Strike World, takes your Strike Ring to greater strength.
+
+#souls' name
+item.soulstrike:hidden_shikimori_style.name=Hidden Shikimori Style
+item.soulstrike:reconstruction_core.name=Reconstruction Core
+item.soulstrike:pride_of_round.name=Pride of Round
+item.soulstrike:will_of_steel.name=Will of Steel
+
+#souls' description
+item.soulstrike:hidden_shikimori_style.desc=Soul of Kokage
+item.soulstrike:reconstruction_core.desc=Soul of Neo
+item.soulstrike:pride_of_round.desc=Soul of Excalibur
+item.soulstrike:will_of_steel.desc=Soul of Hikari
+
+#souls' phrase of Strike Shot
+item.soulstrike:hidden_shikimori_style.phrase=Don't hurt Hinata! Cyber ninja style secret "Shooting Star Dance"!
+item.soulstrike:reconstruction_core.phrase=Ribirth mode, turn on. I will protect the future of my friends, and humans!
+item.soulstrike:pride_of_round.phrase=With the support of the round, light of bonds, drive out evil!
+item.soulstrike:will_of_steel.phrase=Be patient there Nanami, I will bring you the light of hope...at maximum speed!
+
+#traits name
+modifier.soulstrike.soul_connection_armor.name=Soul-Connection
+modifier.soulstrike.soul_around_armor.name=Soul-Around
+

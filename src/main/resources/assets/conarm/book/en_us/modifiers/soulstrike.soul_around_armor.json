@@ -1,0 +1,16 @@
+{
+    "armormodifier": "soulstrike.soul_around_armor",
+    "text": [
+      {
+        "text": "Knights will show you a strong loyalty...and it should get stronger the stronger you are."
+      }
+    ],
+    "effects": [
+      "Call \"Bit'n\" according to your level. (level 20 => 2 Bit'ns, level 40 => 4 Bit'ns)",
+      "Electric chestplate is required!",
+      "Single level"
+    ],
+    "demoArmor": [
+      "conarm:chestplate"
+    ]
+}

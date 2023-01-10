@@ -1,0 +1,47 @@
+{
+    "type" : "minecraft:crafting_shaped",
+    "conditions" : [
+        {
+            "type" : "forge:and",
+            "values" : [
+                {
+                    "type" : "forge:mod_loaded",
+                    "modid" : "opencomputers"
+                },
+                {
+                    "type" : "forge:mod_loaded",
+                    "modid" : "openentity"
+                }
+            ]
+        }
+    ],
+    "pattern" : [
+        "mbg",
+        "bhb",
+        "gcg"
+    ],
+    "key" : {
+        "h" : {
+            "item" : "soulstrike:hidden_shikimori_style"
+        },
+        "c" : {
+            "item" : "opencomputers:material",
+            "data" : 5
+        },
+        "m" : {
+            "item" : "opencomputers:material",
+            "data" : 8
+        },
+        "b" : {
+            "item" : "minecraft:wool",
+            "data" : 15
+        },
+        "g" : {
+            "item" : "minecraft:wool",
+            "data" : 7
+        }
+    },
+    "result" : {
+        "item" : "soulstrike:hidden_controller"
+    }
+}

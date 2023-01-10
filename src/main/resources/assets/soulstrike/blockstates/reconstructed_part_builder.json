@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "soulstrike:blocks/reconstructed_part_builder/rpb_side"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "inventory":{
+      "model": "soulstrike:reconstructed_part_builder"
+    },
+    "normal":{
+      "model": "soulstrike:reconstructed_part_builder"
+    }
+  }
+}

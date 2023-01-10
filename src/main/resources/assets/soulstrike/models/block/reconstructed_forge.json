@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "soulstrike:blocks/reconstructed_forge/rf_top",
+        "down": "soulstrike:blocks/reconstructed_forge/rf_bottom",
+        "north": "soulstrike:blocks/reconstructed_forge/rf_side",
+        "south": "soulstrike:blocks/reconstructed_forge/rf_side",
+        "east": "soulstrike:blocks/reconstructed_forge/rf_side",
+        "west": "soulstrike:blocks/reconstructed_forge/rf_side"
+    }
+}
